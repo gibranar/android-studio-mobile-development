@@ -12,8 +12,6 @@ public class SecondActivity extends AppCompatActivity {
 
     public static final String EXTRA_MESSAGE = "com.example.twoactivitieslifecycle.extra.MESSAGE";
 
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
