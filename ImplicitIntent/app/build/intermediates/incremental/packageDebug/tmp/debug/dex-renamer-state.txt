@@ -1,0 +1,10 @@
+#Wed Oct 16 21:25:46 WIB 2024
+base.0=D\:\\KULIAH\\SEMESTER 5\\Pengembangan Aplikasi Mobile\\Program\\ImplicitIntent\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=D\:\\KULIAH\\SEMESTER 5\\Pengembangan Aplikasi Mobile\\Program\\ImplicitIntent\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=D\:\\KULIAH\\SEMESTER 5\\Pengembangan Aplikasi Mobile\\Program\\ImplicitIntent\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=6/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

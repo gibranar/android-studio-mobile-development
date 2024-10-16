@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_primary">#A020F0</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Implicit Intent</string>
+    <string name="button_loc">Open Location</string>
+    <string name="button_share">Share This Text</string>
+    <string name="button_uri">Open Website</string>
+    <string name="edittext_loc">Golden Gate Bridge</string>
+    <string name="edittext_share">\'Twas brillig and the slithy toves</string>
+    <string name="edittext_uri">https://developer.android.com</string>
+    <style name="Base.Theme.TwoActivities" parent="Theme.Material3.DayNight">
+        
+        
+    </style>
+    <style name="Theme.AppCompat.Light.Custom" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#0F7EC8</item> 
+        <item name="android:textColorPrimary">#FFFFFF</item> 
+        <item name="colorPrimaryDark">#000000</item> 
+        <item name="android:windowLightStatusBar">true</item> 
+    </style>
+    <style name="Theme.TwoActivities" parent="Base.Theme.TwoActivities"/>
+</resources>
