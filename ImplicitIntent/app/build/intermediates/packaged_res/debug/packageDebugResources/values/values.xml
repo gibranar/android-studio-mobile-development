@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_primary">#A020F0</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="SecondPageName">Second Page</string>
+    <string name="app_name">Shopping List</string>
+    <string name="apple">Apple</string>
+    <string name="appleList">Apple</string>
+    <string name="banana">Banana</string>
+    <string name="bananaList">Banana</string>
+    <string name="berries">Berries</string>
+    <string name="berriesList">Berries</string>
+    <string name="bread">Bread</string>
+    <string name="breadList">Bread</string>
+    <string name="button_loc">Open Location</string>
+    <string name="cake">Cake</string>
+    <string name="cakeList">Cake</string>
+    <string name="cereal">Cereal</string>
+    <string name="cerealList">Cereal</string>
+    <string name="check_shop">Check Shop</string>
+    <string name="cheese">Cheese</string>
+    <string name="cheeseList">Cheese</string>
+    <string name="edittext_loc">Warung Serbaguna</string>
+    <string name="eggs">Eggs</string>
+    <string name="eggsList">Eggs</string>
+    <string name="milk">Milk</string>
+    <string name="milkList">Milk</string>
+    <string name="pear">Pear</string>
+    <string name="pearList">Pear</string>
+    <style name="Base.Theme.TwoActivities" parent="Theme.Material3.DayNight">
+        
+        
+    </style>
+    <style name="Theme.AppCompat.Light.Custom" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#0F7EC8</item> 
+        <item name="android:textColorPrimary">#FFFFFF</item> 
+        <item name="colorPrimaryDark">#000000</item> 
+        <item name="android:windowLightStatusBar">true</item> 
+    </style>
+    <style name="Theme.TwoActivities" parent="Base.Theme.TwoActivities"/>
+</resources>
