@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.android.SimpleCalc.CalculatorTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2024-10-25T16:26:47" hostname="IBANKOMPUTER" time="0.265">
+  <properties/>
+  <testcase name="addTwoNumbers" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.26"/>
+  <testcase name="testCalcButtonAddition" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="subTwoNumbers" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="testCalcButtonMultiplication" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="addTwoNumbersNegative" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="mulTwoNumbers" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="subWorksWithNegativeResult" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="divTwoNumbers" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="testCalcButtonDivision" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="addTwoNumbersFloats" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.001"/>
+  <testcase name="testCalcButtonSubtraction" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.0"/>
+  <testcase name="divByZeroThrows" classname="com.example.android.SimpleCalc.CalculatorTest" time="0.001"/>
+  <system-out><![CDATA[Terjadi Error
+java.lang.IllegalArgumentException: Silahkan membagi dengan angka selain 0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
